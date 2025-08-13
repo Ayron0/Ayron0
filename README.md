@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Front End Develop<br>- Front End Develop in IN Junior</p>
+<p align="left">- Front End Develop</p>
 
 ###
 
